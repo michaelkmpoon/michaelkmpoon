@@ -4,7 +4,7 @@ I'm an astronomy graduate student at the University of Toronto studying 🪐 _ex
 
 📫 Contact:
   * Email: michael.poon@astro.utoronto.ca
-  * Website: http://www.astro.utoronto.ca/~michael.poon/
+  * Website: mpoon.ca
   
 <!--
 **michaelkmpoon/michaelkmpoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
