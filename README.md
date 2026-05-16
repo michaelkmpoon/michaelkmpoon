@@ -1,10 +1,10 @@
-### Hi there, I'm [Michael Poon](https://sites.google.com/view/michaelpoon/home) 👋
+### Hi there, I'm [Michael Poon](https://mpoon.ca) 👋
 
 I'm an astronomy graduate student at the University of Toronto studying 🪐 _exoplanets_ 🪐 via direct imaging observations, high-resolution spectroscopy, dynamics, and statistics.
 
 📫 Contact:
   * Email: michael.poon@astro.utoronto.ca
-  * Website: mpoon.ca
+  * Website: https://mpoon.ca
   
 <!--
 **michaelkmpoon/michaelkmpoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
