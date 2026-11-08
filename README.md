@@ -1,9 +1,9 @@
 ### Hi there, I'm [Michael Poon](https://mpoon.ca) 👋
 
-I'm an astronomy graduate student at the University of Toronto studying 🪐 _exoplanets_ 🪐 via direct imaging observations, high-resolution spectroscopy, dynamics, and statistics.
+I'm a Postdoc at MIT studying 🪐 _exoplanets_ 🪐 via direct imaging observations, high-resolution spectroscopy, dynamics, and statistics.
 
 📫 Contact:
-  * Email: michael.poon@astro.utoronto.ca
+  * Email: m_poon@mit.edu
   * Website: https://mpoon.ca
   
 <!--
